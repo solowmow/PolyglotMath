@@ -18,7 +18,35 @@ The repository contains folders/files structured as follows:
 - **monte_carlo.m**: Monte Carlo simulations in MATLAB.
 - **sorting_algorithms.m**: MATLAB implementation of sorting and searching algorithms.
 
-(Repeat similar structures for other languages...)
+### R
+- **matrix_operations.R**: R script for matrix operations.
+- **fibonacci.R**: R script for calculating the Fibonacci sequence.
+- **monte_carlo.R**: Monte Carlo simulations in R.
+- **sorting_algorithms.R**: R implementation of sorting and searching algorithms.
+
+### Julia
+- **matrix_operations.jl**: Julia script for matrix operations.
+- **fibonacci.jl**: Julia script for computing the Fibonacci sequence.
+- **monte_carlo.jl**: Monte Carlo simulations in Julia.
+- **sorting_algorithms.jl**: Julia implementation of sorting and searching algorithms.
+
+### C/C++
+- **matrix_operations.cpp**: C/C++ source code for matrix operations.
+- **fibonacci.cpp**: C/C++ implementation for the Fibonacci sequence.
+- **monte_carlo.cpp**: Monte Carlo simulations in C/C++.
+- **sorting_algorithms.cpp**: C/C++ implementations of sorting and searching algorithms.
+
+### Java
+- **MatrixOperations.java**: Java code for matrix operations.
+- **Fibonacci.java**: Java implementation for the Fibonacci sequence.
+- **MonteCarlo.java**: Monte Carlo simulations in Java.
+- **SortingAlgorithms.java**: Java implementations of sorting and searching algorithms.
+
+### JavaScript
+- **matrix_operations.js**: JavaScript code for matrix operations.
+- **fibonacci.js**: JavaScript script for computing the Fibonacci sequence.
+- **monte_carlo.js**: Monte Carlo simulations in JavaScript.
+- **sorting_algorithms.js**: JavaScript implementations of sorting and searching algorithms.
 
 ## Usage
 Each language-specific folder contains scripts/files for respective mathematical tasks. To use, navigate to the language folder and execute the specific script using the corresponding interpreter/compiler.
