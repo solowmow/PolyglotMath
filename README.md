@@ -62,4 +62,4 @@ This project is licensed under [MIT License](LICENSE), allowing for open contrib
 - We've drawn inspiration from various online resources and open-source projects while creating this repository.
 
 ## Contact
-For any queries or suggestions, feel free to contact us at [email address].
+For any queries or suggestions, feel free to contact us.
